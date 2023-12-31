@@ -16,7 +16,7 @@ Using yhe np.linalg.inv(),we can find the inverse of a matrix.
 
 Step 4:
 End the program. 
-## Program:                                                                                                                                                                                                             ```                                                                          #Program to find the rank of a matrix.
+## Program:                                                                                                                                                                                                             ```                                                                          ```
 #Developed by:L.yagnesh kumar reddy 
 #RegisterNumber:23004742
 import numpy as np
